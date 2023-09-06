@@ -1,0 +1,3 @@
+export const VACANCY_DATES_SELECT_LIMIT = 10
+export const VACANCY_FILTER_MIN = 0
+export const VACANCY_FILTER_MAX = 500
